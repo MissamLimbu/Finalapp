@@ -1,0 +1,14 @@
+<resources>
+    <!-- Existing Strings -->
+    <string name="app_name">FinalApp</string>
+
+    <!-- Add these for the new activities -->
+    <string name="login">Login</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="details">Details</string>
+
+    <!-- Add labels for your fields (optional) -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Login</string>
+</resources>
